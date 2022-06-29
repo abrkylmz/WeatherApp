@@ -3,4 +3,4 @@ WeatherApp Exercise
 
 
 app link:
-weather-app-zeta-tan.vercel.apps
+weather-app-zeta-tan.vercel.app
